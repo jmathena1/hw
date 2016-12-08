@@ -1,0 +1,316 @@
+;;; SENTENCE_ID 
+;;; SENTENCE السلطة الفلسطينية تستنكر استمرار سياسة الاغتيالات الاسرائيلية
+;;WORD السلطة
+;;LENGTH 6
+;;OFFSET 0
+;;SVM_PREDICTIONS: السلطة diac:Als~uloTapi lex:suloTap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884039 diac:السُّلْطَةُ lex:سُلْطَة_1 bw:Al/DET+suloT/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:power;authority;rule pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:سُلْط stemcat:Napdu
+--------------
+;;WORD الفلسطينية
+;;LENGTH 10
+;;OFFSET 8
+;;SVM_PREDICTIONS: الفلسطينية diac:AlfilasoTiyniy~api lex:filasoTiyniy~ asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884034 diac:الفِلَسْطِينِيَّةُ lex:فِلَسْطِينِيّ_1 bw:Al/DET+filasoTiyniy~/ADJ+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:Palestinian pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:فِلَسْطِينِيّ stemcat:Nall
+--------------
+;;WORD تستنكر
+;;LENGTH 6
+;;OFFSET 19
+;;SVM_PREDICTIONS: تستنكر diac:tasotanokir lex:{isotanokar asp:i cas:na enc0:0 gen:m mod:u num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.867736 diac:تَسْتَنْكِر lex:ٱِسْتَنْكَر_1 bw:ta/IV2MS+sotanokir/IV gloss:be_ignorant_of;have_no_knowledge_of;repudiate pregloss:you_[masc.sg.] pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:2 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:سْتَنْكِر stemcat:IV_intr
+--------------
+;;WORD استمرار
+;;LENGTH 7
+;;OFFSET 26
+;;SVM_PREDICTIONS: استمرار diac:AisotimorAri lex:{isotimorAr asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.886676 diac:اِسْتِمْرارَ lex:ٱِسْتِمْرار_1 bw:{isotimorAr/NOUN+a/CASE_DEF_ACC gloss:continuation;continuity sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:ٱِسْتِمْرار stemcat:N/At
+--------------
+;;WORD سياسة
+;;LENGTH 5
+;;OFFSET 34
+;;SVM_PREDICTIONS: سياسة diac:siyAsapi lex:siyAsap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.895252 diac:سِياسَةِ lex:سِياسَة_1 bw:siyAs/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:politics sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:سِياس stemcat:Nap
+--------------
+;;WORD الاغتيالات
+;;LENGTH 10
+;;OFFSET 40
+;;SVM_PREDICTIONS: الاغتيالات diac:AlAigotiyAlAti lex:{igotiyAl asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894765 diac:الاِغْتِيالاتِ lex:ٱِغْتِيال_1 bw:Al/DET+{igotiyAl/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_GEN gloss:assassination;murder pregloss:the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:g enc0:0 rat:y source:lex stem:ٱِغْتِيال stemcat:NduAt
+--------------
+;;WORD الاسرائيلية
+;;LENGTH 11
+;;OFFSET 51
+;;SVM_PREDICTIONS: الاسرائيلية diac:Al<isorA}iyliy~api lex:<isorA}iyliy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.826741 diac:الإِسْرائِيلِيَّةِ lex:إِسْرائِيلِيّ_1 bw:Al/DET+<isorA}iyliy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:Israeli pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:spvar stem:إِسْرائِيلِيّ stemcat:Nall
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID 
+;;; SENTENCE غزة 1 - 11 ( اف ب ) - استنكرت السلطة الوطنية الفلسطينية اليوم الخميس استمرار سياسة الاغتيالات وعمليات قتل الفلسطينيين التي تنتهجها اسرائيل محملة الدولة العبرية المسؤولية كاملة عن التصعيد
+;;WORD غزة
+;;LENGTH 3
+;;OFFSET 0
+;;SVM_PREDICTIONS: غزة diac:gaz~apu lex:gaz~ap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.893910 diac:غَزَّةُ lex:غَزَّة_1 bw:gaz~/NOUN_PROP+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:Gaza sufgloss:[fem.sg.] pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y source:lex stem:غَزّ stemcat:Nap
+--------------
+;;WORD 1
+;;LENGTH 1
+;;OFFSET 4
+;;SVM_PREDICTIONS: 8 diac:8 lex:8 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:1 lex:1_0 bw:1/NOUN_NUM gloss:1 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD -
+;;LENGTH 1
+;;OFFSET 6
+;;SVM_PREDICTIONS: - diac:- lex:- asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:- lex:-_0 bw:-/PUNC gloss:- pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD 11
+;;LENGTH 2
+;;OFFSET 8
+;;SVM_PREDICTIONS: 88 diac:88 lex:88 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:11 lex:11_0 bw:11/NOUN_NUM gloss:11 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD (
+;;LENGTH 1
+;;OFFSET 11
+;;SVM_PREDICTIONS: ( diac:( lex:( asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:( lex:(_0 bw:(/PUNC gloss:( pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD اف
+;;LENGTH 2
+;;OFFSET 13
+;;SVM_PREDICTIONS: اف diac:<if lex:<if asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:abbrev prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*0.824671 diac:إِف lex:إِف_1 bw:<if/ABBREV gloss:F. pos:abbrev prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:spvar stem:إِف stemcat:N0
+--------------
+;;WORD ب
+;;LENGTH 1
+;;OFFSET 16
+;;SVM_PREDICTIONS: ب diac:b lex:bi asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:abbrev prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*0.894451 diac:ب lex:بِ_1 bw:b/ABBREV gloss:B;2nd;P pos:abbrev prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:lex stem:ب stemcat:FW
+--------------
+;;WORD )
+;;LENGTH 1
+;;OFFSET 18
+;;SVM_PREDICTIONS: ) diac:) lex:) asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:) lex:)_0 bw:)/PUNC gloss:) pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD -
+;;LENGTH 1
+;;OFFSET 20
+;;SVM_PREDICTIONS: - diac:- lex:- asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:- lex:-_0 bw:-/PUNC gloss:- pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD استنكرت
+;;LENGTH 7
+;;OFFSET 22
+;;SVM_PREDICTIONS: استنكرت diac:Aisotanokarat lex:{isotanokar asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894850 diac:اِسْتَنْكَرَت lex:ٱِسْتَنْكَر_1 bw:{isotanokar/PV+at/PVSUFF_SUBJ:3FS gloss:be_ignorant_of;have_no_knowledge_of;repudiate sufgloss:it;they;she_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:ٱِسْتَنْكَر stemcat:PV_intr
+--------------
+;;WORD السلطة
+;;LENGTH 6
+;;OFFSET 30
+;;SVM_PREDICTIONS: السلطة diac:Als~uloTapi lex:suloTap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884039 diac:السُّلْطَةُ lex:سُلْطَة_1 bw:Al/DET+suloT/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:power;authority;rule pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:سُلْط stemcat:Napdu
+--------------
+;;WORD الوطنية
+;;LENGTH 7
+;;OFFSET 37
+;;SVM_PREDICTIONS: الوطنية diac:AlwaTaniy~api lex:waTaniy~ asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884034 diac:الوَطَنِيَّةُ lex:وَطَنِيّ_1 bw:Al/DET+waTaniy~/ADJ+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:national pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:وَطَنِيّ stemcat:N-ap
+--------------
+;;WORD الفلسطينية
+;;LENGTH 10
+;;OFFSET 45
+;;SVM_PREDICTIONS: الفلسطينية diac:AlfilasoTiyniy~api lex:filasoTiyniy~ asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884034 diac:الفِلَسْطِينِيَّةُ lex:فِلَسْطِينِيّ_1 bw:Al/DET+filasoTiyniy~/ADJ+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:Palestinian pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:فِلَسْطِينِيّ stemcat:Nall
+--------------
+;;WORD اليوم
+;;LENGTH 5
+;;OFFSET 56
+;;SVM_PREDICTIONS: اليوم diac:Alyawoma lex:yawom asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895212 diac:اليَوْمَ lex:يَوْم_1 bw:Al/DET+yawom/NOUN+a/CASE_DEF_ACC gloss:day pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:يَوْم stemcat:Ndu
+--------------
+;;WORD الخميس
+;;LENGTH 6
+;;OFFSET 62
+;;SVM_PREDICTIONS: الخميس diac:Alxamiysa lex:xamiys asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.824514 diac:الخَمِيسَ lex:خَمِيس_2 bw:Al/DET+xamiys/NOUN_PROP+a/CASE_DEF_ACC gloss:Thursday pregloss:the sufgloss:[def.acc.] pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:خَمِيس stemcat:N
+--------------
+;;WORD استمرار
+;;LENGTH 7
+;;OFFSET 69
+;;SVM_PREDICTIONS: استمرار diac:AisotimorAri lex:{isotimorAr asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.886676 diac:اِسْتِمْرارَ lex:ٱِسْتِمْرار_1 bw:{isotimorAr/NOUN+a/CASE_DEF_ACC gloss:continuation;continuity sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:ٱِسْتِمْرار stemcat:N/At
+--------------
+;;WORD سياسة
+;;LENGTH 5
+;;OFFSET 77
+;;SVM_PREDICTIONS: سياسة diac:siyAsapi lex:siyAsap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.895252 diac:سِياسَةِ lex:سِياسَة_1 bw:siyAs/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:politics sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:سِياس stemcat:Nap
+--------------
+;;WORD الاغتيالات
+;;LENGTH 10
+;;OFFSET 83
+;;SVM_PREDICTIONS: الاغتيالات diac:AlAigotiyAlAti lex:{igotiyAl asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894765 diac:الاِغْتِيالاتِ lex:ٱِغْتِيال_1 bw:Al/DET+{igotiyAl/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_GEN gloss:assassination;murder pregloss:the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:g enc0:0 rat:y source:lex stem:ٱِغْتِيال stemcat:NduAt
+--------------
+;;WORD وعمليات
+;;LENGTH 7
+;;OFFSET 94
+;;SVM_PREDICTIONS: وعمليات diac:waEamaliy~Ati lex:Eamaliy~ap asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:c vox:na
+*0.893920 diac:وَعَمَلِيّاتِ lex:عَمَلِيَّة_1 bw:wa/CONJ+Eamaliy~/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_GEN gloss:operations;missions;processes pregloss:and sufgloss:[fem.pl.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:c cas:g enc0:0 rat:y source:lex stem:عَمَلِيّ stemcat:NAt
+--------------
+;;WORD قتل
+;;LENGTH 3
+;;OFFSET 102
+;;SVM_PREDICTIONS: قتل diac:qutila lex:qatol asp:p cas:g enc0:0 gen:m mod:i num:s per:na pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:p
+*0.751592 diac:قُتِلَ lex:قَتَل-ُ_1 bw:qutil/PV_PASS+a/PVSUFF_SUBJ:3MS gloss:be_killed sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:p mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:قُتِل stemcat:PV_Pass
+--------------
+;;WORD الفلسطينيين
+;;LENGTH 11
+;;OFFSET 106
+;;SVM_PREDICTIONS: الفلسطينيين diac:AlfilasoTiyniy~iyna lex:filasoTiyniy~ asp:na cas:g enc0:0 gen:m mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894230 diac:الفِلَسْطِينِيِّينَ lex:فِلَسْطِينِيّ_1 bw:Al/DET+filasoTiyniy~/NOUN+iyona/NSUFF_MASC_PL_GEN gloss:Palestinian pregloss:the sufgloss:[masc.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:p stt:d cas:g enc0:0 rat:y source:lex stem:فِلَسْطِينِيّ stemcat:Nall
+--------------
+;;WORD التي
+;;LENGTH 4
+;;OFFSET 118
+;;SVM_PREDICTIONS: التي diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:الَّتِي lex:الَّذِي_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:الَّتِي stemcat:FW-Wa
+--------------
+;;WORD تنتهجها
+;;LENGTH 7
+;;OFFSET 123
+;;SVM_PREDICTIONS: تنتهجها diac:tanotahijhA lex:{inotahaj asp:i cas:na enc0:3fs_dobj gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:تَنْتَهِجها lex:ٱِنْتَهَج_1 bw:ta/IV3FS+notahij/IV+hA/IVSUFF_DO:3FS gloss:follow;pursue pregloss:it;they;she sufgloss:it;them;her pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:3fs_dobj rat:na source:lex stem:نْتَهِج stemcat:IV
+--------------
+;;WORD اسرائيل
+;;LENGTH 7
+;;OFFSET 131
+;;SVM_PREDICTIONS: اسرائيل diac:<isorA}iyla lex:<isorA}iyl asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.813944 diac:إِسْرائِيلُ lex:إِسْرائِيل_1 bw:<isorA}iyl/NOUN_PROP+u/CASE_DEF_NOM gloss:Israel sufgloss:[def.nom.] pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:n enc0:0 rat:y source:spvar stem:إِسْرائِيل stemcat:Ndip
+--------------
+;;WORD محملة
+;;LENGTH 5
+;;OFFSET 139
+;;SVM_PREDICTIONS: محملة diac:muHam~alapF lex:muHam~al asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.814337 diac:مُحَمَّلَةٌ lex:مُحَمَّل_1 bw:muHam~al/NOUN+ap/NSUFF_FEM_SG+N/CASE_INDEF_NOM gloss:loaded;burdened sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:n enc0:0 rat:y source:lex stem:مُحَمَّل stemcat:Nall
+--------------
+;;WORD الدولة
+;;LENGTH 6
+;;OFFSET 145
+;;SVM_PREDICTIONS: الدولة diac:Ald~awolapi lex:dawolap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884039 diac:الدَّوْلَةُ lex:دَوْلَة_1 bw:Al/DET+dawol/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:state;country pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:دَوْل stemcat:Napdu
+--------------
+;;WORD العبرية
+;;LENGTH 7
+;;OFFSET 152
+;;SVM_PREDICTIONS: العبرية diac:AlEiboriy~api lex:Eiboriy~ asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884034 diac:العِبْرِيَّةُ lex:عِبْرِيّ_1 bw:Al/DET+Eiboriy~/ADJ+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:Hebrew pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:عِبْرِيّ stemcat:Nall
+--------------
+;;WORD المسؤولية
+;;LENGTH 9
+;;OFFSET 160
+;;SVM_PREDICTIONS: المسؤولية diac:Almaso&uwliy~apa lex:maso&uwliy~ap asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894311 diac:المَسْؤُولِيَّةَ lex:مَسْؤُولِيَّة_1 bw:Al/DET+maso&uwliy~/NOUN+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC gloss:responsibility pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:y source:lex stem:مَسْؤُولِيّ stemcat:NapAt
+--------------
+;;WORD كاملة
+;;LENGTH 5
+;;OFFSET 170
+;;SVM_PREDICTIONS: كاملة diac:kAmilapF lex:kAmil asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894267 diac:كامِلَةً lex:كامِل_1 bw:kAmil/ADJ+ap/NSUFF_FEM_SG+F/CASE_INDEF_ACC gloss:complete;full;integral sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y source:lex stem:كامِل stemcat:N/ap
+--------------
+;;WORD عن
+;;LENGTH 2
+;;OFFSET 176
+;;SVM_PREDICTIONS: عن diac:Ean lex:Ean asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:عَن lex:عَن_1 bw:Ean/PREP gloss:from;about pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:عَن stemcat:FW-Wa
+--------------
+;;WORD التصعيد
+;;LENGTH 7
+;;OFFSET 179
+;;SVM_PREDICTIONS: التصعيد diac:Alt~aSoEiydi lex:taSoEiyd asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:التَّصْعِيدِ lex:تَصْعِيد_1 bw:Al/DET+taSoEiyd/NOUN+i/CASE_DEF_GEN gloss:escalation;intensification pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:تَصْعِيد stemcat:N/At
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID 
+;;; SENTENCE ويستمر غياب ينز يريميز ويورغ هاينريخ ومحمد شول وسيباستيان ديسلر بسبب الاصابة
+;;WORD ويستمر
+;;LENGTH 6
+;;OFFSET 0
+;;SVM_PREDICTIONS: ويستمر diac:wayasotamir~ lex:{isotamar~ asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:na vox:a
+*0.855626 diac:وَيَسْتَمِرّ lex:ٱِسْتَمَرّ_1 bw:wa/CONJ+ya/IV3MS+sotamir~/IV gloss:continue pregloss:and_+_he;it pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:سْتَمِرّ stemcat:IV_V
+--------------
+;;WORD غياب
+;;LENGTH 4
+;;OFFSET 7
+;;SVM_PREDICTIONS: غياب diac:giyAbi lex:giyAb asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.884561 diac:غِيابُ lex:غِياب_1 bw:giyAb/NOUN+u/CASE_DEF_NOM gloss:absence;disappearance sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:n enc0:0 rat:y source:lex stem:غِياب stemcat:N
+--------------
+;;WORD ينز
+;;LENGTH 3
+;;OFFSET 12
+;;SVM_PREDICTIONS: ينز diac:yanoz lex:nazA asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.605632 diac:يَنْز lex:نَزا-ُ_1 bw:ya/IV3MS+noz/IV gloss:leap;escape pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:نْز stemcat:IV_0hwnyn
+--------------
+;;WORD يريميز
+;;LENGTH 6
+;;OFFSET 16
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: يريميز diac:yrymyz lex:yrymyz asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+NO-ANALYSIS [yrymyz]
+--------------
+;;WORD ويورغ
+;;LENGTH 5
+;;OFFSET 23
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: ويورغ diac:wywrg lex:wywrg asp:na cas:u enc0:3d_poss gen:m mod:i num:s per:3 pos:noun_prop prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+NO-ANALYSIS [wywrg]
+--------------
+;;WORD هاينريخ
+;;LENGTH 7
+;;OFFSET 29
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: هاينريخ diac:hAynryx lex:hAynryx asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+NO-ANALYSIS [hAynryx]
+--------------
+;;WORD ومحمد
+;;LENGTH 5
+;;OFFSET 37
+;;SVM_PREDICTIONS: ومحمد diac:wamuHam~ad lex:muHam~ad asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+*0.894282 diac:وَمُحَمَّد lex:مُحَمَّد_1 bw:wa/CONJ+muHam~ad/NOUN_PROP gloss:Muhammad;Mohamed pregloss:and pos:noun_prop prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:مُحَمَّد stemcat:Nprop
+--------------
+;;WORD شول
+;;LENGTH 3
+;;OFFSET 43
+;;SVM_PREDICTIONS: شول diac:$awilN lex:$aw~al asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.798136 diac:شَوِل lex:شَوِل_1 bw:$awil/ADJ gloss:expeditious;swift pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:شَوِل stemcat:Nall
+--------------
+;;WORD وسيباستيان
+;;LENGTH 10
+;;OFFSET 47
+;;SVM_PREDICTIONS: وسيباستيان diac:wasiybAsotiyAn lex:siybAsotiyAn asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+*0.894282 diac:وَسِيباسْتِيان lex:سِيباسْتِيان_1 bw:wa/CONJ+siybAsotiyAn/NOUN_PROP gloss:Sebastian;Sebastien pregloss:and pos:noun_prop prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:سِيباسْتِيان stemcat:N0
+--------------
+;;WORD ديسلر
+;;LENGTH 5
+;;OFFSET 58
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: ديسلر diac:dyslr lex:dyslr asp:na cas:u enc0:3d_poss gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+NO-ANALYSIS [dyslr]
+--------------
+;;WORD بسبب
+;;LENGTH 4
+;;OFFSET 64
+;;SVM_PREDICTIONS: بسبب diac:bisababi lex:sabab asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:c vox:na
+*0.894415 diac:بِسَبَبِ lex:سَبَب_1 bw:bi/PREP+sabab/NOUN+i/CASE_DEF_GEN gloss:reason;cause pregloss:by;with sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:سَبَب stemcat:Ndu
+--------------
+;;WORD الاصابة
+;;LENGTH 7
+;;OFFSET 69
+;;SVM_PREDICTIONS: الاصابة diac:Al<iSAbapi lex:<iSAbap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.826174 diac:الإِصابَةِ lex:إِصابَة_1 bw:Al/DET+<iSAb/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:casualty;injury pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:spvar stem:إِصاب stemcat:Napdu
+--------------
+SENTENCE BREAK
+--------------
